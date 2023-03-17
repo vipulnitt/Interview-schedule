@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Interview-schedule/static/css/main.07f21e62.css",
+    "main.js": "/Interview-schedule/static/js/main.b2e3e73b.js",
+    "index.html": "/Interview-schedule/index.html",
+    "main.07f21e62.css.map": "/Interview-schedule/static/css/main.07f21e62.css.map",
+    "main.b2e3e73b.js.map": "/Interview-schedule/static/js/main.b2e3e73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f21e62.css",
+    "static/js/main.b2e3e73b.js"
+  ]
+}
